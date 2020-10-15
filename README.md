@@ -5,3 +5,4 @@ Should not be used for commercial purposes - liable to Google lawsuit.
 Using Scrapy in Python
 
 © Arkaprabha Majumdar, 2020
+(Journal Dev IT)
